@@ -64,3 +64,9 @@ header {
 .copyright{
     font-size:14px;
 }
+
+/* About page */
+.jumbotron-image{
+    background-image: url('../img/jumbg.png');
+    margin-bottom:5px !important;
+}
