@@ -1,3 +1,49 @@
-.active a{ 
+/* Colors */
+
+.bg-p {
+    background: #797979;
+}
+
+.color-p {
+    color: #797979;
+}
+
+.btn-bg {
+    background-color: #FFB20F;
+}
+
+/*  */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    box-shadow: 2px -2px 15px #78797C;
+}
+
+.active a {
     color: #FF0000 !important;
 }
+
+.home-first {
+    font-family: 'Nunito', sans-serif;
+}
+
+.home-first h1 {
+    line-height: 1.6em;
+    font-weight: 800;
+}
+
+.home-first p {
+    font-size: 1.1em;
+}
+
+.home-first a {
+    font-size: 1em;
+    font-weight:800;
+}
+.home-first img{
+    margin-top:-80px;
+}
+
