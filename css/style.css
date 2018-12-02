@@ -8,6 +8,10 @@
     color: #797979;
 }
 
+.color-p2 {
+    color: #333333;
+}
+
 .btn-bg {
     background-color: #FFB20F;
 }
@@ -41,9 +45,13 @@ header {
 
 .home-first a {
     font-size: 1em;
-    font-weight:800;
-}
-.home-first img{
-    margin-top:-80px;
+    font-weight: 800;
 }
 
+.home-first img {
+    margin-top: -5em;
+}
+
+.home-second p {
+    line-height: 1.8em;
+}
