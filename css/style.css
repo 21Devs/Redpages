@@ -30,7 +30,7 @@ header {
     color: #FF0000 !important;
 }
 
-.home-first {
+.home-first, .home-third, .home-fourth {
     font-family: 'Nunito', sans-serif;
 }
 
@@ -54,4 +54,10 @@ header {
 
 .home-second p {
     line-height: 1.8em;
+}
+.home-third .oracle-inner{
+    margin-top:-14em;
+}
+.home-fourth p{
+    font-weight:600;
 }
