@@ -33,6 +33,9 @@ header {
 .active a {
     color: #FF0000 !important;
 }
+.activee {
+    color: #FF0000 !important;
+}
 
 .home-first,
 .home-third,
@@ -89,7 +92,7 @@ header {
     box-shadow: 50px 50px 120px #00000039;
 }
 
-.about-four {
+.about-four,.contact {
     background-color: #F6F6F6;
 }
 
