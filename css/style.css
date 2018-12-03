@@ -30,7 +30,12 @@ header {
     color: #FF0000 !important;
 }
 
-.home-first, .home-third, .home-fourth, .about-two, .about-three {
+.home-first,
+.home-third,
+.home-fourth,
+.about-two,
+.about-three,
+.about-four {
     font-family: 'Nunito', sans-serif;
 }
 
@@ -55,18 +60,30 @@ header {
 .home-second p {
     line-height: 1.8em;
 }
-.home-third .oracle-inner{
-    margin-top:-14em;
+
+.home-third .oracle-inner {
+    margin-top: -14em;
 }
-.home-fourth p{
-    font-weight:600;
+
+.home-fourth p {
+    font-weight: 600;
 }
-.copyright{
-    font-size:14px;
+
+.copyright {
+    font-size: 14px;
 }
 
 /* About page */
-.jumbotron-image{
+
+.jumbotron-image {
     background-image: url('../img/jumbg.png');
-    margin-bottom:5px !important;
+    margin-bottom: 5px !important;
+}
+
+.about-four img {
+    box-shadow: 50px 50px 120px #00000039;
+}
+
+.about-four {
+    background-color:#F6F6F6;
 }
