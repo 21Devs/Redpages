@@ -40,7 +40,7 @@ header {
 .about-two,
 .about-three,
 .about-four,
-.blog-one {
+.blog-one, .blog-two{
     font-family: 'Nunito', sans-serif;
 }
 
@@ -111,4 +111,7 @@ header {
 .back {
     background-image: url('../img/articles.png');
     background-repeat:no-repeat;
+}
+.card{
+    border:none;
 }
