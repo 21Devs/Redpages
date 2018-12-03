@@ -73,7 +73,7 @@ header {
     font-size: 14px;
 }
 
-/* About page */
+/* About Page */
 
 .jumbotron-image {
     background-image: url('../img/jumbg.png');
@@ -85,5 +85,12 @@ header {
 }
 
 .about-four {
-    background-color:#F6F6F6;
+    background-color: #F6F6F6;
+}
+
+/* Blog Page */
+
+.jumbotron-image2 {
+    background-image: url('../img/blog.png');
+    margin-bottom: 5px !important;
 }
