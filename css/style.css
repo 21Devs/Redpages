@@ -4,6 +4,10 @@
     background: #797979;
 }
 
+.bg-p2 {
+    background-color: #4F4F4F;
+}
+
 .color-p {
     color: #797979;
 }
@@ -35,7 +39,8 @@ header {
 .home-fourth,
 .about-two,
 .about-three,
-.about-four {
+.about-four,
+.blog-one {
     font-family: 'Nunito', sans-serif;
 }
 
@@ -93,4 +98,17 @@ header {
 .jumbotron-image2 {
     background-image: url('../img/blog.png');
     margin-bottom: 5px !important;
+}
+
+.blog-one p {
+    font-size: .8em;
+}
+
+.blog-one h1 {
+    font-family: 'Nunito', sans-serif;
+}
+
+.back {
+    background-image: url('../img/articles.png');
+    background-repeat:no-repeat;
 }
